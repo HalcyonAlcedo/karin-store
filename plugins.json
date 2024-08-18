@@ -20,6 +20,26 @@
     "version": "0.0.1"
   },
   {
+    "app": "karin-plugin-group",
+    "view": {
+      "title": "群管插件",
+      "subtitle": "QQ群管理插件",
+      "text": "一个适用于 Karin 系列机器人框架 的QQ群的管理群插件",
+      "author": "yusheng929",
+      "icon": "mdi-account-filter",
+      "dev": false,
+      "home": "https://github.com/Circle-money-run/karin-plugin-group"
+    },
+    "readme": {
+      "url": [
+        "https://raw.githubusercontent.com/Circle-money-run/karin-plugin-group/dev/README.md"
+      ]
+    },
+    "git": "https://github.com/Circle-money-run/karin-plugin-group.git",
+    "installable": true,
+    "version": "1.1.4"
+  },
+  {
     "app": "karin-plugin-neko-status",
     "view": {
       "title": "状态查询插件",
