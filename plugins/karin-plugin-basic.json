@@ -1,0 +1,20 @@
+{
+    "app": "karin-plugin-basic",
+    "view": {
+        "title": "基础插件",
+        "subtitle": "基础插件",
+        "text": "基础插件，<span>#状态</span>、<span>#更新</span>、<span>#更新日志</span>",
+        "author": "KarinJS",
+        "icon": "mdi-application-cog-outline",
+        "dev": false,
+        "home": "https://github.com/KarinJS/karin-plugin-basic"
+    },
+    "readme": {
+        "url": [
+            "https://raw.githubusercontent.com/karinjs/karin-plugin-basic/main/README.md"
+        ]
+    },
+    "git": "https://github.com/karinjs/karin-plugin-basic.git",
+    "installable": true,
+    "version": "0.0.1"
+}
