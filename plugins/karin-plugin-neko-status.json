@@ -1,0 +1,20 @@
+{
+    "app": "karin-plugin-neko-status",
+    "view": {
+        "title": "状态查询插件",
+        "subtitle": "系统状态查询插件",
+        "text": "一个适用于 Karin 系列机器人框架 的系统状态查询插件喵~</br>有着更加精简，美观和超超超超超可爱的 UI 和的风格，并且你可以自定义头图喵~",
+        "author": "Alcedo",
+        "icon": "mdi-cat",
+        "dev": false,
+        "home": "https://github.com/HalcyonAlcedo/karin-plugin-neko-status"
+    },
+    "readme": {
+        "url": [
+            "https://raw.githubusercontent.com/HalcyonAlcedo/karin-plugin-neko-status/Karin/README.md"
+        ]
+    },
+    "git": "https://github.com/HalcyonAlcedo/karin-plugin-neko-status.git",
+    "installable": true,
+    "version": "1.0.3"
+}
