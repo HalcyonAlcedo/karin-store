@@ -40,6 +40,26 @@
     "version": "1.1.4"
   },
   {
+    "app": "karin-plugin-markdown",
+    "view": {
+      "title": "Markdown",
+      "subtitle": "将文本转为 Github Markdown 风格的图片",
+      "text": "使用puppeteer将markdown转换为图片",
+      "author": "KarinJS",
+      "icon": "mdi-language-markdown-outline",
+      "dev": false,
+      "home": "https://github.com/KarinJS/karin-plugin-markdown"
+    },
+    "readme": {
+      "url": [
+        "https://raw.githubusercontent.com/karinjs/karin-plugin-markdown/main/README.md"
+      ]
+    },
+    "git": "https://github.com/karinjs/karin-plugin-markdown.git",
+    "installable": true,
+    "version": "1.0.0"
+  },
+  {
     "app": "karin-plugin-neko-status",
     "view": {
       "title": "状态查询插件",
