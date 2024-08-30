@@ -1,0 +1,20 @@
+{
+    "app": "karin-plugin-ling",
+    "view": {
+        "title": "铃插件",
+        "subtitle": "提供便携式操作插件",
+        "text": "一个适用于 Karin 系列机器人框架 的插件",
+        "author": "yusheng929",
+        "icon": "mdi-account-filter",
+        "dev": false,
+        "home": "https://github.com/yusheng929/karin-plugin-ling"
+    },
+    "readme": {
+        "url": [
+            "https://raw.githubusercontent.com/yusheng929/karin-plugin-ling/dev/README.md"
+        ]
+    },
+    "git": "https://github.com/yusheng929/karin-plugin-ling.git",
+    "installable": true,
+    "version": "1.1.4"
+}
